@@ -1,8 +1,8 @@
 {
-  "NoticeMode": "dialog",
-  "NoticeVersion": 5,
-  "NoticeTitle": "Welcome",
-  "NoticeMsg": [
-    "Please Share my apps Your friends and family to get more users. Please give 5 stars 🌟 🌟🌟🌟🌟 and good comment on Google playstore . I will give best support in my apps."
-  ]
+	"NoticeMode":"dialog",
+	"NoticeVersion":6,
+	"NoticeTitle":"Welcome",
+	"NoticeMsg":[
+		"Welcome to Alo Fast VIP"
+	]
 }
